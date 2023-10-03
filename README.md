@@ -2,9 +2,30 @@
 
 > Awesome resources to keep yourself up to date as a (front) web developer.
 
+## Newsletters
+
+- [TLDR (daily)](https://tldr.tech/) — The most interesting stories in startups, tech, and programming
+- [Frontend Focus (weekly) ⭐](https://frontendfoc.us/) — A once–weekly roundup (HTML, CSS, WebGL, Canvas, browser tech, and more)
+- [The Sidebar (daily) ⭐](https://sidebar.io/) — 5 design links in your inbox every weekday
+- [The Smashing Newsletter (weekly)](https://www.smashingmagazine.com/the-smashing-newsletter/) — Useful front-end & UX bits
+- [This week in React](https://thisweekinreact.com/fr/newsletter)
+- [Bytes (bi-weekly)](https://bytes.dev/) — Your wekkly dose of JS
+- [SQL for Devs](https://sqlfordevs.com/newsletter)
+- [Daily Dev Links (weekly)](https://dailydevlinks.com/)
+
+## Weekly Curations
+
+- [Pixels of the Week](https://stephaniewalter.design/blog/category/useful-links/) — Curated weekly UX, Design & Tech resources
+- [Tympanus Collective](https://tympanus.net/codrops/collective/) — Latest news and resources from the web design & web development community
+
+## Social Lists
+
+- [Web Components (Twitter List) ⭐](https://twitter.com/i/lists/1102159555562270721)
+- [Web Plaform (Twitter List) ⭐](https://twitter.com/i/lists/948487078198890498)
+
 ## Web Platform
 
-- [Web.dev](https://web.dev/blog/) — Latest news, updates, and stories for developers
+- [Web.dev ⭐](https://web.dev/blog/) — Latest news, updates, and stories for developers
 - [Web Platform News](https://webplatform.news/)
 
 ## Web Standards
@@ -39,26 +60,10 @@
 - [Google Search Central](https://www.youtube.com/channel/UCWf2ZlNsCGDS89VBF_awNvA/videos)
 - [Steve (Builder.io)](https://www.youtube.com/channel/UCGmR6lhKMlCkvrvb39vPtdA/videos)
 
-## Newsletters
+## Personalized Feeds
 
-- [TLDR (daily)](https://tldr.tech/) — The most interesting stories in startups, tech, and programming
-- [Frontend Focus (weekly)](https://frontendfoc.us/) — A once–weekly roundup (HTML, CSS, WebGL, Canvas, browser tech, and more)
-- [The Sidebar (daily)](https://sidebar.io/) — 5 design links in your inbox every weekday
-- [The Smashing Newsletter (weekly)](https://www.smashingmagazine.com/the-smashing-newsletter/) — Useful front-end & UX bits
-- [Bytes (bi-weekly)](https://bytes.dev/) — Your wekkly dose of JS
-- [SQL for Devs](https://sqlfordevs.com/newsletter)
-- [Daily Dev Links (weekly)](https://dailydevlinks.com/)
-
-## Weekly Curations
-
-- [Pixels of the Week](https://stephaniewalter.design/blog/category/useful-links/) — Curated weekly UX, Design & Tech resources
-- [Tympanus Collective](https://tympanus.net/codrops/collective/) — Latest news and resources from the web design & web development community
+- [Vived ⭐](https://vived.io/) - Hand-picked content and tailored by algorithms
 - [Daily Dev (Browser Extension)](https://daily.dev/)
-
-## Social Lists
-
-- [Web Components (Twitter List)](https://twitter.com/i/lists/1102159555562270721)
-- [Web Plaform (Twitter List)](https://twitter.com/i/lists/948487078198890498)
 
 ## Learning Platforms
 
