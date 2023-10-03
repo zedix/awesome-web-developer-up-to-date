@@ -9,7 +9,7 @@
 - [The Sidebar (daily) ⭐](https://sidebar.io/) — 5 design links in your inbox every weekday
 - [The Smashing Newsletter (weekly)](https://www.smashingmagazine.com/the-smashing-newsletter/) — Useful front-end & UX bits
 - [This week in React](https://thisweekinreact.com/fr/newsletter)
-- [Bytes (bi-weekly)](https://bytes.dev/) — Your wekkly dose of JS
+- [Bytes (bi-weekly)](https://bytes.dev/) — Your weekly dose of JS
 - [SQL for Devs](https://sqlfordevs.com/newsletter)
 - [Daily Dev Links (weekly)](https://dailydevlinks.com/)
 
