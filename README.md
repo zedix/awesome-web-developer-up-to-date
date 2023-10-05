@@ -4,8 +4,11 @@
 
 ## Newsletters
 
-- [Modern Web Weekly ⭐](https://modern-web-weekly.ghost.io/)
-- [TLDR (daily)](https://tldr.tech/) — The most interesting stories in startups, tech, and programming
+- [Modern Web Weekly ⭐](https://modern-web-weekly.ghost.io/) by [Danny Moerkerke](https://twitter.com/dannymoerkerke)
+- [TLDR Tech (daily)](https://tldr.tech/) — The most interesting stories in startups, tech, and programming
+- [TLDR AI](https://tldr.tech/ai) — TLDR AI, Machine Learning & Data Science
+- [TLDR WebDev](https://tldr.tech/webdev) — Curated deep dives, tools, and trends in frontend, backend, and full stack web development
+- [TLDR Design](https://tldr.tech/design) — Curated tools, trends, and inspiration for design professionals
 - [Frontend Focus (weekly) ⭐](https://frontendfoc.us/) — A once–weekly roundup (HTML, CSS, WebGL, Canvas, browser tech, and more)
 - [Unicorn Club (weekly)](https://dailydevlinks.com/) — For design-savvy front-end devs and code-loving UX/UI designers
 - [The Sidebar (daily) ⭐](https://sidebar.io/) — 5 design links in your inbox every weekday
@@ -70,7 +73,6 @@
 - [Chrome for Developers (videos)](https://www.youtube.com/@ChromeDevs/videos)
 - [WebKit Standards Positions](https://webkit.org/standards-positions/)
 
-
 ## YouTube Channels
 
 - [Google For Developers — HTTP 203](https://www.youtube.com/channel/UC_x5XG1OV2P6uZZ5FSM9Ttw/videos)
@@ -93,8 +95,9 @@
 
 ## Podcasts
 
-- [Syntax Podcast](https://syntax.fm/) — A Tasty Treats Podcast for Web Developers.
-- [Modern Web Podcast](https://modernweb.podbean.com/)
-- [The Changelog Podcast](http://changelog.com/live) @JSPartyFM, Adam Wathan
+- [Modern Web Podcast](https://modernweb.podbean.com/) — Interview-style show to learn about modern web development from industry experts.
+- [The CSS Podcast](https://pod.link/thecsspodcast)
 - [The Web Platform Podcast](https://thewebplatformpodcast.com/) — Founded in 2014 by HTML W3C Invited Expert Erik Isaksen
+- [The Changelog Podcast](http://changelog.com/live) @JSPartyFM, Adam Wathan
+- [Syntax Podcast](https://syntax.fm/) — A Tasty Treats Podcast for Web Developers.
 - [If This Then Dev Podcast](https://ifttd.io/)
