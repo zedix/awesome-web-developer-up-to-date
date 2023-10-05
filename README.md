@@ -4,6 +4,7 @@
 
 ## Newsletters
 
+- [Modern Web Weekly ⭐](https://modern-web-weekly.ghost.io/)
 - [TLDR (daily)](https://tldr.tech/) — The most interesting stories in startups, tech, and programming
 - [Frontend Focus (weekly) ⭐](https://frontendfoc.us/) — A once–weekly roundup (HTML, CSS, WebGL, Canvas, browser tech, and more)
 - [Unicorn Club (weekly)](https://dailydevlinks.com/) — For design-savvy front-end devs and code-loving UX/UI designers
@@ -84,6 +85,11 @@
 ## Learning Platforms
 
 - [Laracast](https://laracasts.com/)
+
+## Courses worth-talking
+
+- [The Joy of React Course](https://www.joyofreact.com/) by Josh W Comeau
+- [Web Component Engineering Course](https://eisenbergeffect.medium.com/announcing-the-web-component-engineering-course-presale-3e2169183859) by Rob Eisenberg
 
 ## Podcasts
 
