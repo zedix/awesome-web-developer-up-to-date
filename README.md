@@ -5,17 +5,17 @@
 ## Newsletters
 
 - [Modern Web Weekly ⭐](https://modern-web-weekly.ghost.io/) by [Danny Moerkerke](https://twitter.com/dannymoerkerke)
-- [TLDR Tech (daily)](https://tldr.tech/) — The most interesting stories in startups, tech, and programming
+- [TLDR Tech (daily)](https://tldr.tech/) — TLDR stories in Startups, Tech & Programming
 - [TLDR AI](https://tldr.tech/ai) — TLDR AI, Machine Learning & Data Science
-- [TLDR WebDev](https://tldr.tech/webdev) — Curated deep dives, tools, and trends in frontend, backend, and full stack web development
-- [TLDR Design](https://tldr.tech/design) — Curated tools, trends, and inspiration for design professionals
+- [TLDR WebDev](https://tldr.tech/webdev) — TLDR deep dives, tools, and trends in frontend, backend & full stack web development
+- [TLDR Design](https://tldr.tech/design) — TLDR tools, trends, and inspiration in web design
 - [Frontend Focus (weekly) ⭐](https://frontendfoc.us/) — A once–weekly roundup (HTML, CSS, WebGL, Canvas, browser tech, and more)
 - [Unicorn Club (weekly)](https://dailydevlinks.com/) — For design-savvy front-end devs and code-loving UX/UI designers
 - [The Sidebar (daily) ⭐](https://sidebar.io/) — 5 design links in your inbox every weekday
 - [The Smashing Newsletter (weekly)](https://www.smashingmagazine.com/the-smashing-newsletter/) — Useful front-end & UX bits
 - [Bytes (bi-weekly)](https://bytes.dev/) — Your weekly dose of JS
 - [This Week in React](https://thisweekinreact.com/fr/newsletter) — Your weekly dose of React
-- [SQL for Devs](https://sqlfordevs.com/newsletter)
+- [SQL for Devs (weekly)](https://sqlfordevs.com/newsletter)
 
 ## Conferences
 
@@ -94,10 +94,10 @@ Tip: use [Arc](https://arc.net/) browser with [split views](https://resources.ar
 
 - [Laracast](https://laracasts.com/)
 
-## Courses worth-talking
+## Courses worth-buying
 
+- [Web Component Engineering Course ⭐](https://eisenbergeffect.medium.com/announcing-the-web-component-engineering-course-presale-3e2169183859) by Rob Eisenberg
 - [The Joy of React Course](https://www.joyofreact.com/) by Josh W Comeau
-- [Web Component Engineering Course](https://eisenbergeffect.medium.com/announcing-the-web-component-engineering-course-presale-3e2169183859) by Rob Eisenberg
 
 ## Podcasts
 
