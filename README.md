@@ -2,11 +2,10 @@
 
 > Awesome resources to keep yourself up to date as a (front) web developer.
 
-## Social Lists
+## Twitter Lists by Topic (Hand-Picked)
 
 - [Web Components (Twitter List) ⭐](https://twitter.com/i/lists/1102159555562270721)
 - [Web Plaform (Twitter List) ⭐](https://twitter.com/i/lists/948487078198890498)
-- [Laravel (Twitter List)](https://twitter.com/i/lists/105009179)
 - [Laravel (Twitter List)](https://twitter.com/i/lists/105009179)
 - [Remix - Hydrogen (Twitter List)](https://twitter.com/i/lists/1612727238205607938)
 - [Vue.js (Twitter List)](https://twitter.com/i/lists/802500172509020160)
