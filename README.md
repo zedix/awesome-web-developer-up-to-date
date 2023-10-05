@@ -29,7 +29,7 @@ The above twitter feeds are hand-picked accounts, grouped in a [list](https://he
 
 ![image](https://github.com/zedix/awesome-web-developer-up-to-date/assets/27975/6aa571eb-66d3-4830-a02b-afbf3eceb233)
 
-Tip: to create the view above, use [Arc](https://arc.net/) browser with [split views](https://resources.arc.net/en/articles/6586156-split-view-view-multiple-tabs-at-once) and a [boost](https://resources.arc.net/en/articles/6808613-boosts-customize-any-website) with custom CSS.
+Tip: to create the view above, use [Arc](https://arc.net/) browser with [split views](https://resources.arc.net/en/articles/6586156-split-view-view-multiple-tabs-at-once) and a [boost](https://resources.arc.net/en/articles/6808613-boosts-customize-any-website) with [custom CSS](https://gist.github.com/zedix/10db3738cc75c1c57aad5ce5f2b429a5).
 
 
 ## Conferences
@@ -96,7 +96,7 @@ Tip: to create the view above, use [Arc](https://arc.net/) browser with [split v
 
 ## Learning Platforms
 
-- [Laracast](https://laracasts.com/)
+- [Laracasts](https://laracasts.com/)
 
 ## Courses worth-buying
 
