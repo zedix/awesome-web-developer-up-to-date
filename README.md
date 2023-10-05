@@ -55,6 +55,12 @@
 - [Web Components (Twitter List) ⭐](https://twitter.com/i/lists/1102159555562270721)
 - [Web Plaform (Twitter List) ⭐](https://twitter.com/i/lists/948487078198890498)
 
+
+![image](https://github.com/zedix/awesome-web-developer-up-to-date/assets/27975/6aa571eb-66d3-4830-a02b-afbf3eceb233)
+
+Tip: use [Arc](https://arc.net/) browser with [split views](https://resources.arc.net/en/articles/6586156-split-view-view-multiple-tabs-at-once) and [Arc boost](https://resources.arc.net/en/articles/6808613-boosts-customize-any-website) to create this viewer.
+
+
 ## Web Platform
 
 - [Web.dev ⭐](https://web.dev/blog/) — Latest news, updates, and stories for developers
