@@ -6,12 +6,12 @@
 
 - [TLDR (daily)](https://tldr.tech/) — The most interesting stories in startups, tech, and programming
 - [Frontend Focus (weekly) ⭐](https://frontendfoc.us/) — A once–weekly roundup (HTML, CSS, WebGL, Canvas, browser tech, and more)
+- [Unicorn Club (weekly)](https://dailydevlinks.com/) — For design-savvy front-end devs and code-loving UX/UI designers
 - [The Sidebar (daily) ⭐](https://sidebar.io/) — 5 design links in your inbox every weekday
 - [The Smashing Newsletter (weekly)](https://www.smashingmagazine.com/the-smashing-newsletter/) — Useful front-end & UX bits
-- [This week in React](https://thisweekinreact.com/fr/newsletter)
 - [Bytes (bi-weekly)](https://bytes.dev/) — Your weekly dose of JS
+- [This Week in React](https://thisweekinreact.com/fr/newsletter) — Your weekly dose of React
 - [SQL for Devs](https://sqlfordevs.com/newsletter)
-- [Daily Dev Links (weekly)](https://dailydevlinks.com/)
 
 ## Weekly Curations
 
@@ -44,6 +44,8 @@
 ## Conferences
 
 - [CSS Day Amsterdam](https://www.youtube.com/@WebConferencesAmsterdam/videos)
+  - [CSS Day 2023](https://www.youtube.com/playlist?list=PLjnstNlepBvOG299LOrvMFJ8WreCDWWd4)
+- [performance.now() Amsterdam](https://www.youtube.com/@WebConferencesAmsterdam/videos)
 - [Vue.js Amsterdam](https://www.youtube.com/channel/UCxV7lO6dUhpB-IyzmGuVgqg/videos)
 - [Vue.js London](https://www.vuemastery.com/conferences/vuejs-live-2023)
 - [React Europe](https://www.youtube.com/channel/UCorlLn2oZfgOJ-FUcF2eZ1A/videos)
@@ -53,6 +55,7 @@
 - [Laracon US 2023](https://www.youtube.com/@LaravelPHP/videos)
 - [Figma Config 2023](https://www.youtube.com/watch?v=yI9QVwkk2Go&list=PLXDU_eVOJTx61IdqXh3jrvopJN8HGkS5F)
 - [Google I/O ‘23](https://www.youtube.com/watch?v=cNfINi5CNbY)
+- [ViteConf](https://viteconf.org/23/) October 5 / 6, 2023 • Online
 
 ## YouTube Channels
 
@@ -62,7 +65,7 @@
 
 ## Personalized Feeds
 
-- [Vived ⭐](https://vived.io/) - Hand-picked content and tailored by algorithms
+- [Vived ⭐](https://vived.io/) — Hand-picked content and tailored by algorithms
 - [Daily Dev (Browser Extension)](https://daily.dev/)
 
 ## Learning Platforms
