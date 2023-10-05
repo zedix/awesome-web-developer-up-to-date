@@ -16,26 +16,27 @@
 ## Conferences
 
 - [CSS Day Amsterdam](https://www.youtube.com/@WebConferencesAmsterdam/videos)
-  - [2023 𝌆](https://www.youtube.com/playlist?list=PLjnstNlepBvOG299LOrvMFJ8WreCDWWd4)
-- [performance.now() Amsterdam](https://www.youtube.com/@WebConferencesAmsterdam/videos)
+  - [𝌆 2023](https://www.youtube.com/playlist?list=PLjnstNlepBvOG299LOrvMFJ8WreCDWWd4)
+- [performance.now() Amsterdam](https://perfnow.nl/)
+  - [𝌆 2022](https://www.youtube.com/watch?v=_FOQoMvIxeQ&list=PLjnstNlepBvN4Cpv_Io-GpvJKdo1Bu-Vz)
 - [JSWorld Conference](https://jsworldconference.com/) — February
-  - [2023 𝌆](https://www.youtube.com/watch?v=QVZwvu9GSXE&list=PL02pdjMT4gWy_4JSx3J-PGT2MPnOMajvF)
+  - [𝌆 2023](https://www.youtube.com/watch?v=QVZwvu9GSXE&list=PL02pdjMT4gWy_4JSx3J-PGT2MPnOMajvF)
 - [Vue.js Amsterdam](https://www.youtube.com/channel/UCxV7lO6dUhpB-IyzmGuVgqg/videos) — February
-  - [2022 𝌆](https://www.youtube.com/watch?v=1ntuhMzAzU8&list=PLCxzy-hmQq9FwNkMS0JpzuMEh5aoJW_FZ)
+  - [𝌆 2022](https://www.youtube.com/watch?v=1ntuhMzAzU8&list=PLCxzy-hmQq9FwNkMS0JpzuMEh5aoJW_FZ)
 - [Vue.js London](https://www.vuemastery.com/conferences)
-  - [2023 𝌆](https://www.vuemastery.com/conferences/vuejs-live-2023)
+  - [𝌆 2023](https://www.vuemastery.com/conferences/vuejs-live-2023)
 - [Vue.js US](https://www.vuemastery.com/conferences)
-  - [2023 𝌆](https://www.vuemastery.com/conferences/vueconf-us-2023)
+  - [𝌆 2023](https://www.vuemastery.com/conferences/vueconf-us-2023)
 - [Jamstack TV](https://www.youtube.com/channel/UC8bRyfU7ycLXnEBfvdorpUg/videos)
-  - [2022 𝌆](https://www.youtube.com/watch?v=A1fIG7kghfs&list=PL58Wk5g77lF-s9uXrQgEo0Z9FQWBzoKXT)
+  - [𝌆 2022](https://www.youtube.com/watch?v=A1fIG7kghfs&list=PL58Wk5g77lF-s9uXrQgEo0Z9FQWBzoKXT)
 - [Laracon EU](https://laracon.eu/) — January
-  - [2022 𝌆](https://www.youtube.com/watch?v=omKODW12Hhk&list=PLMdXHJK-lGoBcH4il_bq-aD_p34ZrBlas)
+  - [𝌆 2022](https://www.youtube.com/watch?v=omKODW12Hhk&list=PLMdXHJK-lGoBcH4il_bq-aD_p34ZrBlas)
 - [Laracon US](https://laracon.us/)
-  - [2023 𝌆](https://www.youtube.com/@LaravelPHP/videos)
+  - [𝌆 2023](https://www.youtube.com/@LaravelPHP/videos)
 - [Figma Config 2023](https://config.figma.com/)
-  - [2023 𝌆](https://www.youtube.com/watch?v=yI9QVwkk2Go&list=PLXDU_eVOJTx61IdqXh3jrvopJN8HGkS5F)
+  - [𝌆 2023](https://www.youtube.com/watch?v=yI9QVwkk2Go&list=PLXDU_eVOJTx61IdqXh3jrvopJN8HGkS5F)
 - [Google I/O ‘23](https://io.google/2023/intl/fr/)
-  - [2023 𝌆](https://www.youtube.com/watch?v=cNfINi5CNbY)
+  - [𝌆 2023](https://www.youtube.com/watch?v=cNfINi5CNbY)
 - [ViteConf](https://viteconf.org/23/) — October
 - [React Europe](https://www.youtube.com/channel/UCorlLn2oZfgOJ-FUcF2eZ1A/videos)
 - [ReactiveConf](https://www.youtube.com/channel/UCBHdUnixTWymmXBIw12Y8Qg/videos)
