@@ -2,6 +2,19 @@
 
 > Awesome resources to keep yourself up to date as a (front) web developer.
 
+## Social Lists
+
+- [Web Components (Twitter List) ⭐](https://twitter.com/i/lists/1102159555562270721)
+- [Web Plaform (Twitter List) ⭐](https://twitter.com/i/lists/948487078198890498)
+- [Laravel (Twitter List)](https://twitter.com/i/lists/105009179)
+- [Laravel (Twitter List)](https://twitter.com/i/lists/105009179)
+- [Remix - Hydrogen (Twitter List)](https://twitter.com/i/lists/1612727238205607938)
+- [Vue.js (Twitter List)](https://twitter.com/i/lists/802500172509020160)
+
+![image](https://github.com/zedix/awesome-web-developer-up-to-date/assets/27975/6aa571eb-66d3-4830-a02b-afbf3eceb233)
+
+Tip: use [Arc](https://arc.net/) browser with [split views](https://resources.arc.net/en/articles/6586156-split-view-view-multiple-tabs-at-once) and [Arc boost](https://resources.arc.net/en/articles/6808613-boosts-customize-any-website) to create this viewer.
+
 ## Newsletters
 
 - [Modern Web Weekly ⭐](https://modern-web-weekly.ghost.io/) by [Danny Moerkerke](https://twitter.com/dannymoerkerke)
@@ -49,17 +62,6 @@
 
 - [Pixels of the Week](https://stephaniewalter.design/blog/category/useful-links/) — Curated weekly UX, Design & Tech resources
 - [Tympanus Collective](https://tympanus.net/codrops/collective/) — Latest news and resources from the web design & web development community
-
-## Social Lists
-
-- [Web Components (Twitter List) ⭐](https://twitter.com/i/lists/1102159555562270721)
-- [Web Plaform (Twitter List) ⭐](https://twitter.com/i/lists/948487078198890498)
-
-
-![image](https://github.com/zedix/awesome-web-developer-up-to-date/assets/27975/6aa571eb-66d3-4830-a02b-afbf3eceb233)
-
-Tip: use [Arc](https://arc.net/) browser with [split views](https://resources.arc.net/en/articles/6586156-split-view-view-multiple-tabs-at-once) and [Arc boost](https://resources.arc.net/en/articles/6808613-boosts-customize-any-website) to create this viewer.
-
 
 ## Web Platform
 
