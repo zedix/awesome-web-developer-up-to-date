@@ -9,9 +9,11 @@
 - [TLDR AI](https://tldr.tech/ai) — TLDR AI, Machine Learning & Data Science
 - [TLDR WebDev](https://tldr.tech/webdev) — TLDR deep dives, tools, and trends in frontend, backend & full stack web development
 - [TLDR Design](https://tldr.tech/design) — TLDR tools, trends, and inspiration in web design
-- [Frontend Focus (weekly) ⭐](https://frontendfoc.us/) — A once–weekly roundup (HTML, CSS, WebGL, Canvas, browser tech, and more)
+- [Frontend Focus (weekly) ex-HTML5-Weekly ⭐](https://frontendfoc.us/) — A once–weekly roundup (HTML, CSS, WebGL, Canvas, browser tech, and more)
+- [CSS Weekly](https://css-weekly.com/) —  CSS articles, tutorials, experiments, and tools curated by [Zoran Jambor](https://twitter.com/ZoranJambor)
 - [Unicorn Club (weekly)](https://dailydevlinks.com/) — For design-savvy front-end devs and code-loving UX/UI designers
 - [The Sidebar (daily) ⭐](https://sidebar.io/) — 5 design links in your inbox every weekday
+- [Web Design Weekly](https://web-design-weekly.com/) — Articles and tutorials on web design and development
 - [The Smashing Newsletter (weekly)](https://www.smashingmagazine.com/the-smashing-newsletter/) — Useful front-end & UX bits
 - [Bytes (bi-weekly)](https://bytes.dev/) — Your weekly dose of JS
 - [This Week in React](https://thisweekinreact.com/fr/newsletter) — Your weekly dose of React
@@ -65,6 +67,12 @@ Tip: to create the view above, use [Arc](https://arc.net/) browser with [split v
 - [Pixels of the Week](https://stephaniewalter.design/blog/category/useful-links/) — Curated weekly UX, Design & Tech resources
 - [Tympanus Collective](https://tympanus.net/codrops/collective/) — Latest news and resources from the web design & web development community
 
+## Magazine Articles
+
+- [Smashing Magazine articles](https://www.smashingmagazine.com/articles/)
+- [CSS-Tricks articles](https://css-tricks.com/archives/)
+- [Codrops](https://tympanus.net/codrops/) with some awesome playground demos from [@crnacura](https://twitter.com/crnacura)
+
 ## Web Platform
 
 - [Web.dev ⭐](https://web.dev/blog/) — Latest news, updates, and stories for developers
@@ -89,14 +97,14 @@ Tip: to create the view above, use [Arc](https://arc.net/) browser with [split v
 - [Google Search Central](https://www.youtube.com/channel/UCWf2ZlNsCGDS89VBF_awNvA/videos)
 - [Steve (Builder.io)](https://www.youtube.com/channel/UCGmR6lhKMlCkvrvb39vPtdA/videos)
 
-## Personalized Feeds
+## Newsfeed dashboards
 
 - [Vived ⭐](https://vived.io/) — Hand-picked content and tailored by algorithms
 
 ![image](https://github.com/zedix/awesome-web-developer-up-to-date/assets/27975/be5f057c-539d-4ddd-906d-6f7d28803169)
 
-
-- [Daily Dev (Browser Extension)](https://daily.dev/)
+- [Daily Dev (Browser Extension)](https://daily.dev/) — Browser homepage
+- [Muzli - Design inspiration hub (Browser Extension)](https://muz.li/fr) — Browser homepage
 
 ## Learning Platforms
 
