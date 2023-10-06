@@ -92,6 +92,10 @@ Tip: to create the view above, use [Arc](https://arc.net/) browser with [split v
 ## Personalized Feeds
 
 - [Vived ⭐](https://vived.io/) — Hand-picked content and tailored by algorithms
+
+![image](https://github.com/zedix/awesome-web-developer-up-to-date/assets/27975/be5f057c-539d-4ddd-906d-6f7d28803169)
+
+
 - [Daily Dev (Browser Extension)](https://daily.dev/)
 
 ## Learning Platforms
