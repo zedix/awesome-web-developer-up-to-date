@@ -2,6 +2,37 @@
 
 > Awesome resources to keep yourself up to date as a (front) web developer.
 
+## Newsletters
+
+- [Modern Web Weekly ⭐](https://modern-web-weekly.ghost.io/) by [Danny Moerkerke](https://twitter.com/dannymoerkerke)
+- [TLDR Tech (daily)](https://tldr.tech/) — TLDR stories in Startups, Tech & Programming
+- [TLDR AI](https://tldr.tech/ai) — TLDR AI, Machine Learning & Data Science
+- [TLDR WebDev](https://tldr.tech/webdev) — TLDR deep dives, tools, and trends in frontend, backend & full stack web development
+- [TLDR Design](https://tldr.tech/design) — TLDR tools, trends, and inspiration in web design
+- [Frontend Focus (weekly) ex-HTML5-Weekly ⭐](https://frontendfoc.us/) — A once–weekly roundup (HTML, CSS, WebGL, Canvas, browser tech, and more)
+- [CSS Weekly](https://css-weekly.com/) —  CSS articles, tutorials, experiments, and tools curated by [Zoran Jambor](https://twitter.com/ZoranJambor)
+- [Unicorn Club (weekly)](https://dailydevlinks.com/) — For design-savvy front-end devs and code-loving UX/UI designers
+- [The Sidebar (daily) ⭐](https://sidebar.io/) — 5 design links in your inbox every weekday
+- [Web Design Weekly](https://web-design-weekly.com/) — Articles and tutorials on web design and development
+- [The Smashing Newsletter (weekly)](https://www.smashingmagazine.com/the-smashing-newsletter/) — Useful front-end & UX bits
+- [Bytes (bi-weekly)](https://bytes.dev/) — Your weekly dose of JS
+- [This Week in React](https://thisweekinreact.com/fr/newsletter) — Your weekly dose of React
+- [SQL for Devs (weekly)](https://sqlfordevs.com/newsletter)
+
+## Social Lists
+
+The above twitter feeds are hand-picked accounts, grouped in a [list](https://help.twitter.com/en/using-x/x-lists) by topic.
+
+- [Web Components (Twitter List) ⭐](https://twitter.com/i/lists/1102159555562270721)
+- [Web Plaform (Twitter List) ⭐](https://twitter.com/i/lists/948487078198890498)
+- [Laravel (Twitter List)](https://twitter.com/i/lists/105009179)
+- [Remix - Hydrogen (Twitter List)](https://twitter.com/i/lists/1612727238205607938)
+- [Vue.js (Twitter List)](https://twitter.com/i/lists/802500172509020160)
+
+![image](https://github.com/zedix/awesome-web-developer-up-to-date/assets/27975/6aa571eb-66d3-4830-a02b-afbf3eceb233)
+
+Tip: to create the view above, use [Arc](https://arc.net/) browser with [split views](https://resources.arc.net/en/articles/6586156-split-view-view-multiple-tabs-at-once) and a [boost](https://resources.arc.net/en/articles/6808613-boosts-customize-any-website) with [custom CSS](https://gist.github.com/zedix/10db3738cc75c1c57aad5ce5f2b429a5).
+
 ## Conferences
 
 - [Vue.js — List of Conferences](https://events.vuejs.org/conferences/)
@@ -38,42 +69,14 @@
 ![Oct⋰Nov⋰Dec](https://img.shields.io/badge/Oct⋰Nov⋰Dec-gray)
 
 - [ViteConf](https://viteconf.org/23/)
-  - [𝌆 2023](https://viteconf.org/23/) — October 5-6th, 2023
+  - [𝌆 2023](https://viteconf.org/23/) — October 5-6, 2023
+- [NuxtNation](https://nuxtnation.com/)
+  - [𝌆 2023](https://nuxtnation.com/) — October 18-19, 2023
+  - [𝌆 2022](https://www.youtube.com/watch?v=LbQBUvt3wmw&list=PLxddmVXxb3Hu4yg6jEUBcQ6xix6QM0ews) — November 16-17, 2022
 - [performance.now() Amsterdam](https://perfnow.nl/)
   - [𝌆 2022](https://www.youtube.com/watch?v=_FOQoMvIxeQ&list=PLjnstNlepBvN4Cpv_Io-GpvJKdo1Bu-Vz) — October 27–28, 2022, Amsterdam
 - [Jamstack Conf](https://www.youtube.com/channel/UC8bRyfU7ycLXnEBfvdorpUg/videos)
   - [𝌆 2022](https://www.youtube.com/watch?v=A1fIG7kghfs&list=PL58Wk5g77lF-s9uXrQgEo0Z9FQWBzoKXT)  — November 7-8, 2022
-
-## Newsletters
-
-- [Modern Web Weekly ⭐](https://modern-web-weekly.ghost.io/) by [Danny Moerkerke](https://twitter.com/dannymoerkerke)
-- [TLDR Tech (daily)](https://tldr.tech/) — TLDR stories in Startups, Tech & Programming
-- [TLDR AI](https://tldr.tech/ai) — TLDR AI, Machine Learning & Data Science
-- [TLDR WebDev](https://tldr.tech/webdev) — TLDR deep dives, tools, and trends in frontend, backend & full stack web development
-- [TLDR Design](https://tldr.tech/design) — TLDR tools, trends, and inspiration in web design
-- [Frontend Focus (weekly) ex-HTML5-Weekly ⭐](https://frontendfoc.us/) — A once–weekly roundup (HTML, CSS, WebGL, Canvas, browser tech, and more)
-- [CSS Weekly](https://css-weekly.com/) —  CSS articles, tutorials, experiments, and tools curated by [Zoran Jambor](https://twitter.com/ZoranJambor)
-- [Unicorn Club (weekly)](https://dailydevlinks.com/) — For design-savvy front-end devs and code-loving UX/UI designers
-- [The Sidebar (daily) ⭐](https://sidebar.io/) — 5 design links in your inbox every weekday
-- [Web Design Weekly](https://web-design-weekly.com/) — Articles and tutorials on web design and development
-- [The Smashing Newsletter (weekly)](https://www.smashingmagazine.com/the-smashing-newsletter/) — Useful front-end & UX bits
-- [Bytes (bi-weekly)](https://bytes.dev/) — Your weekly dose of JS
-- [This Week in React](https://thisweekinreact.com/fr/newsletter) — Your weekly dose of React
-- [SQL for Devs (weekly)](https://sqlfordevs.com/newsletter)
-
-## Social Lists
-
-The above twitter feeds are hand-picked accounts, grouped in a [list](https://help.twitter.com/en/using-x/x-lists) by topic.
-
-- [Web Components (Twitter List) ⭐](https://twitter.com/i/lists/1102159555562270721)
-- [Web Plaform (Twitter List) ⭐](https://twitter.com/i/lists/948487078198890498)
-- [Laravel (Twitter List)](https://twitter.com/i/lists/105009179)
-- [Remix - Hydrogen (Twitter List)](https://twitter.com/i/lists/1612727238205607938)
-- [Vue.js (Twitter List)](https://twitter.com/i/lists/802500172509020160)
-
-![image](https://github.com/zedix/awesome-web-developer-up-to-date/assets/27975/6aa571eb-66d3-4830-a02b-afbf3eceb233)
-
-Tip: to create the view above, use [Arc](https://arc.net/) browser with [split views](https://resources.arc.net/en/articles/6586156-split-view-view-multiple-tabs-at-once) and a [boost](https://resources.arc.net/en/articles/6808613-boosts-customize-any-website) with [custom CSS](https://gist.github.com/zedix/10db3738cc75c1c57aad5ce5f2b429a5).
 
 ## Weekly Curations
 
