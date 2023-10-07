@@ -68,8 +68,8 @@ Tip: to create the view above, use [Arc](https://arc.net/) browser with [split v
 
 ![Oct⋰Nov⋰Dec](https://img.shields.io/badge/Oct⋰Nov⋰Dec-gray)
 
-- [ViteConf](https://viteconf.org/23/) `Free Online Live Event`
-  - [𝌆 2023](https://viteconf.org/23/) — October 5-6, 2023
+- [ViteConf](https://viteconf.org/) `Free Online Live Event`
+  - [𝌆 2023](https://viteconf.org/23/replay) — October 5-6, 2023
 - [NuxtNation](https://nuxtnation.com/) `Free Online Live Event`
   - [𝌆 2023](https://nuxtnation.com/) — October 18-19, 2023
   - [𝌆 2022](https://www.youtube.com/watch?v=LbQBUvt3wmw&list=PLxddmVXxb3Hu4yg6jEUBcQ6xix6QM0ews) — November 16-17, 2022
