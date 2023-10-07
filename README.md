@@ -59,8 +59,7 @@ Tip: to create the view above, use [Arc](https://arc.net/) browser with [split v
 - [Google I/O ‘23](https://io.google/2023/intl/fr/)
   - [𝌆 2023](https://www.youtube.com/watch?v=cNfINi5CNbY)
 - [ViteConf](https://viteconf.org/23/) — October
-- [React Europe](https://www.youtube.com/channel/UCorlLn2oZfgOJ-FUcF2eZ1A/videos)
-- [ReactiveConf](https://www.youtube.com/channel/UCBHdUnixTWymmXBIw12Y8Qg/videos)
+
 
 ## Weekly Curations
 
@@ -115,11 +114,15 @@ Tip: to create the view above, use [Arc](https://arc.net/) browser with [split v
 - [Web Component Engineering Course ⭐](https://eisenbergeffect.medium.com/announcing-the-web-component-engineering-course-presale-3e2169183859) by Rob Eisenberg
 - [The Joy of React Course](https://www.joyofreact.com/) by Josh W Comeau
 
-## Podcasts
+## Podcasts (EN)
 
 - [Modern Web Podcast](https://modernweb.podbean.com/) — Interview-style show to learn about modern web development from industry experts.
 - [The CSS Podcast](https://pod.link/thecsspodcast)
 - [The Web Platform Podcast](https://thewebplatformpodcast.com/) — Founded in 2014 by HTML W3C Invited Expert Erik Isaksen
 - [The Changelog Podcast](http://changelog.com/live) @JSPartyFM, Adam Wathan
 - [Syntax Podcast](https://syntax.fm/) — A Tasty Treats Podcast for Web Developers.
+
+## Podcasts (FR)
+
 - [If This Then Dev Podcast](https://ifttd.io/)
+- [Position 0 – Le Podcast SEO](https://position0.club/) — Podcast SEO en français
