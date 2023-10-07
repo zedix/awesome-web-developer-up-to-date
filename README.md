@@ -2,6 +2,48 @@
 
 > Awesome resources to keep yourself up to date as a (front) web developer.
 
+## Conferences
+
+- [Vue.js — List of Conferences](https://events.vuejs.org/conferences/)
+- [React.js — List of Conferences](https://react.dev/community/conferences)
+
+![Jan⋰Feb⋰Mar](https://img.shields.io/badge/Jan⋰Feb⋰Mar-gray)
+
+- [Laracon EU](https://laracon.eu/)
+  - [𝌆 2024](https://laracon.eu/) — February 5-6, 2024
+  - [𝌆 2022](https://www.youtube.com/watch?v=omKODW12Hhk&list=PLMdXHJK-lGoBcH4il_bq-aD_p34ZrBlas) — January 14, 2022
+- [JSWorld Conference](https://jsworldconference.com/)
+  - [𝌆 2023](https://www.youtube.com/watch?v=QVZwvu9GSXE&list=PL02pdjMT4gWy_4JSx3J-PGT2MPnOMajvF) — February 8-10, 2023
+- [Vue.js Amsterdam](https://www.youtube.com/channel/UCxV7lO6dUhpB-IyzmGuVgqg/videos)
+  - [𝌆 2022](https://www.youtube.com/watch?v=1ntuhMzAzU8&list=PLCxzy-hmQq9FwNkMS0JpzuMEh5aoJW_FZ) — February 10-11, 2023
+
+![Apr⋰May⋰Jun](https://img.shields.io/badge/Apr⋰May⋰Jun-gray)
+
+- [Google I/O ‘23](https://io.google/2023/intl/fr/)
+  - [𝌆 2023](https://www.youtube.com/watch?v=cNfINi5CNbY) — May 10, 2023
+- [Vueconf US](https://www.vuemastery.com/conferences)
+  - [𝌆 2023](https://www.vuemastery.com/conferences/vueconf-us-2023) — May 25-26, 2023 May 25-26
+- [CSS Day Amsterdam](https://cssday.nl/2023)
+  - [𝌆 2023](https://www.youtube.com/playlist?list=PLjnstNlepBvOG299LOrvMFJ8WreCDWWd4) — June 8-9, 2023
+- [Vue.js London](https://www.vuemastery.com/conferences)
+  - [𝌆 2023](https://www.vuemastery.com/conferences/vuejs-live-2023) — June 12-15, 2023
+- [Figma Config 2023](https://config.figma.com/)
+  - [𝌆 2023](https://www.youtube.com/watch?v=yI9QVwkk2Go&list=PLXDU_eVOJTx61IdqXh3jrvopJN8HGkS5F) — June 21-22, 2023
+
+![Jul⋰Aug⋰Sep](https://img.shields.io/badge/Jul⋰Aug⋰Sep-gray)
+
+- [Laracon US](https://laracon.us/)
+  - [𝌆 2023](https://www.youtube.com/@LaravelPHP/videos) July 19-20, 2023
+
+![Oct⋰Nov⋰Dec](https://img.shields.io/badge/Oct⋰Nov⋰Dec-gray)
+
+- [ViteConf](https://viteconf.org/23/)
+  - [𝌆 2023](https://viteconf.org/23/) — October 5-6th, 2023
+- [performance.now() Amsterdam](https://perfnow.nl/)
+  - [𝌆 2022](https://www.youtube.com/watch?v=_FOQoMvIxeQ&list=PLjnstNlepBvN4Cpv_Io-GpvJKdo1Bu-Vz) — October 27–28, 2022, Amsterdam
+- [Jamstack Conf](https://www.youtube.com/channel/UC8bRyfU7ycLXnEBfvdorpUg/videos)
+  - [𝌆 2022](https://www.youtube.com/watch?v=A1fIG7kghfs&list=PL58Wk5g77lF-s9uXrQgEo0Z9FQWBzoKXT)  — November 7-8, 2022
+
 ## Newsletters
 
 - [Modern Web Weekly ⭐](https://modern-web-weekly.ghost.io/) by [Danny Moerkerke](https://twitter.com/dannymoerkerke)
@@ -32,34 +74,6 @@ The above twitter feeds are hand-picked accounts, grouped in a [list](https://he
 ![image](https://github.com/zedix/awesome-web-developer-up-to-date/assets/27975/6aa571eb-66d3-4830-a02b-afbf3eceb233)
 
 Tip: to create the view above, use [Arc](https://arc.net/) browser with [split views](https://resources.arc.net/en/articles/6586156-split-view-view-multiple-tabs-at-once) and a [boost](https://resources.arc.net/en/articles/6808613-boosts-customize-any-website) with [custom CSS](https://gist.github.com/zedix/10db3738cc75c1c57aad5ce5f2b429a5).
-
-
-## Conferences
-
-- [CSS Day Amsterdam](https://www.youtube.com/@WebConferencesAmsterdam/videos)
-  - [𝌆 2023](https://www.youtube.com/playlist?list=PLjnstNlepBvOG299LOrvMFJ8WreCDWWd4)
-- [performance.now() Amsterdam](https://perfnow.nl/)
-  - [𝌆 2022](https://www.youtube.com/watch?v=_FOQoMvIxeQ&list=PLjnstNlepBvN4Cpv_Io-GpvJKdo1Bu-Vz)
-- [JSWorld Conference](https://jsworldconference.com/) — February
-  - [𝌆 2023](https://www.youtube.com/watch?v=QVZwvu9GSXE&list=PL02pdjMT4gWy_4JSx3J-PGT2MPnOMajvF)
-- [Vue.js Amsterdam](https://www.youtube.com/channel/UCxV7lO6dUhpB-IyzmGuVgqg/videos) — February
-  - [𝌆 2022](https://www.youtube.com/watch?v=1ntuhMzAzU8&list=PLCxzy-hmQq9FwNkMS0JpzuMEh5aoJW_FZ)
-- [Vue.js London](https://www.vuemastery.com/conferences)
-  - [𝌆 2023](https://www.vuemastery.com/conferences/vuejs-live-2023)
-- [Vue.js US](https://www.vuemastery.com/conferences)
-  - [𝌆 2023](https://www.vuemastery.com/conferences/vueconf-us-2023)
-- [Jamstack TV](https://www.youtube.com/channel/UC8bRyfU7ycLXnEBfvdorpUg/videos)
-  - [𝌆 2022](https://www.youtube.com/watch?v=A1fIG7kghfs&list=PL58Wk5g77lF-s9uXrQgEo0Z9FQWBzoKXT)
-- [Laracon EU](https://laracon.eu/) — January
-  - [𝌆 2022](https://www.youtube.com/watch?v=omKODW12Hhk&list=PLMdXHJK-lGoBcH4il_bq-aD_p34ZrBlas)
-- [Laracon US](https://laracon.us/)
-  - [𝌆 2023](https://www.youtube.com/@LaravelPHP/videos)
-- [Figma Config 2023](https://config.figma.com/)
-  - [𝌆 2023](https://www.youtube.com/watch?v=yI9QVwkk2Go&list=PLXDU_eVOJTx61IdqXh3jrvopJN8HGkS5F)
-- [Google I/O ‘23](https://io.google/2023/intl/fr/)
-  - [𝌆 2023](https://www.youtube.com/watch?v=cNfINi5CNbY)
-- [ViteConf](https://viteconf.org/23/) — October
-
 
 ## Weekly Curations
 
