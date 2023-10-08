@@ -38,7 +38,8 @@ Tip: to create the view above, use [Arc](https://arc.net/) browser with [split v
 - [Vue.js — List of Conferences](https://events.vuejs.org/conferences/)
 - [React.js — List of Conferences](https://react.dev/community/conferences)
 
-### Q1 <img align="absmiddle" src="https://img.shields.io/badge/Jan⋰Feb⋰Mar-gray" alt="Jan⋰Feb⋰Mar" />
+<a name="conferences-q1"></a>
+### [![Jan⋰Feb⋰Mar](https://img.shields.io/badge/Jan⋰Feb⋰Mar-gray)](#conferences-q1)   
 
 - [Laracon EU](https://laracon.eu/)
   - [𝌆 2024](https://laracon.eu/) — February 5-6, 2024
@@ -48,7 +49,8 @@ Tip: to create the view above, use [Arc](https://arc.net/) browser with [split v
 - [Vue.js Amsterdam](https://www.youtube.com/channel/UCxV7lO6dUhpB-IyzmGuVgqg/videos)
   - [𝌆 2022](https://www.youtube.com/watch?v=1ntuhMzAzU8&list=PLCxzy-hmQq9FwNkMS0JpzuMEh5aoJW_FZ) — February 10-11, 2023
 
-### Q2 <img align="absmiddle" src="https://img.shields.io/badge/Apr⋰May⋰Jun-gray" alt="Apr⋰May⋰Jun" />
+<a name="conferences-q2"></a>
+### [![Apr⋰May⋰Jun](https://img.shields.io/badge/Apr⋰May⋰Jun-gray)](#conferences-q2)   
 
 - [Google I/O ‘23](https://io.google/2023/intl/fr/)
   - [𝌆 2023](https://www.youtube.com/watch?v=cNfINi5CNbY) — May 10, 2023
@@ -61,12 +63,14 @@ Tip: to create the view above, use [Arc](https://arc.net/) browser with [split v
 - [Figma Config 2023](https://config.figma.com/)
   - [𝌆 2023](https://www.youtube.com/watch?v=yI9QVwkk2Go&list=PLXDU_eVOJTx61IdqXh3jrvopJN8HGkS5F) — June 21-22, 2023
 
-### Q3 <img align="absmiddle" src="https://img.shields.io/badge/Jul⋰Aug⋰Sep-gray" alt="Jul⋰Aug⋰Sep-gray" />
+<a name="conferences-q3"></a>
+### [![Jul⋰Aug⋰Sep](https://img.shields.io/badge/Jul⋰Aug⋰Sep-gray)](#conferences-q3)   
 
 - [Laracon US](https://laracon.us/)
   - [𝌆 2023](https://www.youtube.com/@LaravelPHP/videos) July 19-20, 2023
 
-### Q4 <img align="absmiddle" src="https://img.shields.io/badge/Oct⋰Nov⋰Dec-gray" alt="Oct⋰Nov⋰Dec" />
+<a name="conferences-q4"></a>
+### [![Oct⋰Nov⋰Dec](https://img.shields.io/badge/Oct⋰Nov⋰Dec-gray)](#conferences-q4)   
 
 - [ViteConf](https://viteconf.org/) `Free Online Live Event`
   - [𝌆 2023](https://viteconf.org/23/replay) — October 5-6, 2023
