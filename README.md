@@ -39,7 +39,7 @@ Tip: to create the view above, use [Arc](https://arc.net/) browser with [split v
 - [React.js — List of Conferences](https://react.dev/community/conferences)
 
 <a name="conferences-q1"></a>
-### [![Jan⋰Feb⋰Mar](https://img.shields.io/badge/Jan⋰Feb⋰Mar-gray)](#conferences-q1)   
+### [![Jan⋰Feb⋰Mar](https://img.shields.io/badge/Jan⋰Feb⋰Mar-gray)](#conferences-q1)
 
 - [Laracon EU](https://laracon.eu/)
   - [𝌆 2024](https://laracon.eu/) — February 5-6, 2024
@@ -50,7 +50,7 @@ Tip: to create the view above, use [Arc](https://arc.net/) browser with [split v
   - [𝌆 2022](https://www.youtube.com/watch?v=1ntuhMzAzU8&list=PLCxzy-hmQq9FwNkMS0JpzuMEh5aoJW_FZ) — February 10-11, 2023
 
 <a name="conferences-q2"></a>
-### [![Apr⋰May⋰Jun](https://img.shields.io/badge/Apr⋰May⋰Jun-gray)](#conferences-q2)   
+### [![Apr⋰May⋰Jun](https://img.shields.io/badge/Apr⋰May⋰Jun-gray)](#conferences-q2)
 
 - [Google I/O ‘23](https://io.google/2023/intl/fr/)
   - [𝌆 2023](https://www.youtube.com/watch?v=cNfINi5CNbY) — May 10, 2023
@@ -64,13 +64,13 @@ Tip: to create the view above, use [Arc](https://arc.net/) browser with [split v
   - [𝌆 2023](https://www.youtube.com/watch?v=yI9QVwkk2Go&list=PLXDU_eVOJTx61IdqXh3jrvopJN8HGkS5F) — June 21-22, 2023
 
 <a name="conferences-q3"></a>
-### [![Jul⋰Aug⋰Sep](https://img.shields.io/badge/Jul⋰Aug⋰Sep-gray)](#conferences-q3)   
+### [![Jul⋰Aug⋰Sep](https://img.shields.io/badge/Jul⋰Aug⋰Sep-gray)](#conferences-q3)
 
 - [Laracon US](https://laracon.us/)
   - [𝌆 2023](https://www.youtube.com/@LaravelPHP/videos) July 19-20, 2023
 
 <a name="conferences-q4"></a>
-### [![Oct⋰Nov⋰Dec](https://img.shields.io/badge/Oct⋰Nov⋰Dec-gray)](#conferences-q4)   
+### [![Oct⋰Nov⋰Dec](https://img.shields.io/badge/Oct⋰Nov⋰Dec-gray)](#conferences-q4)
 
 - [ViteConf](https://viteconf.org/) `Free Online Live Event`
   - [𝌆 2023](https://viteconf.org/23/replay) — October 5-6, 2023
@@ -92,6 +92,7 @@ Tip: to create the view above, use [Arc](https://arc.net/) browser with [split v
 - [Smashing Magazine articles](https://www.smashingmagazine.com/articles/)
 - [CSS-Tricks articles](https://css-tricks.com/archives/)
 - [Codrops](https://tympanus.net/codrops/) with some awesome playground demos from [@crnacura](https://twitter.com/crnacura)
+- [The New Stack](https://thenewstack.io/)
 
 ## Web Platform
 
