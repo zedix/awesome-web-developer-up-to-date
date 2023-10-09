@@ -3,7 +3,14 @@
 > Awesome resources to keep yourself up to date as a (front) web developer.
 
 <a href="https://www.epicweb.dev/epic-stack">
-  <img src="http://res.cloudinary.com/epic-web/image/upload/v1683707705/epic-stack-logos.svg" height="200" />
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="http://res.cloudinary.com/epic-web/image/upload/v1683707705/epic-stack-logos.svg">
+    <img src="data:," height="200" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)"srcset="http://res.cloudinary.com/epic-web/image/upload/v1683707705/epic-stack-logos.svg">
+    <img src="data:," height="200" style="filter: invert(1)" />
+  </picture>
 </a>
 
 ## Newsletters
