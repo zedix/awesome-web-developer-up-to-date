@@ -2,6 +2,10 @@
 
 > Awesome resources to keep yourself up to date as a (front) web developer.
 
+<a href="https://www.epicweb.dev/epic-stack">
+  <img src="http://res.cloudinary.com/epic-web/image/upload/v1683707705/epic-stack-logos.svg" height="200" />
+</a>
+
 ## Newsletters
 
 - [Modern Web Weekly ⭐](https://modern-web-weekly.ghost.io/) by [Danny Moerkerke](https://twitter.com/dannymoerkerke)
