@@ -5,11 +5,11 @@
 <a href="https://www.epicweb.dev/epic-stack">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="http://res.cloudinary.com/epic-web/image/upload/v1683707705/epic-stack-logos.svg">
-    <img src="data:," height="200" />
+    <img src="data:," height="200" style="filter: invert(1)" />
   </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)"srcset="http://res.cloudinary.com/epic-web/image/upload/v1683707705/epic-stack-logos.svg">
-    <img src="data:," height="200" style="filter: invert(1)" />
+    <img src="data:," height="200" />
   </picture>
 </a>
 
