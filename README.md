@@ -54,6 +54,10 @@ Tip: to create the view above, use [Arc](https://arc.net/) browser with [split v
 
 - [Google I/O ‘23](https://io.google/2023/intl/fr/)
   - [𝌆 2023](https://www.youtube.com/watch?v=cNfINi5CNbY) — May 10, 2023
+- [Remix Conf](https://remix.run/conf/)
+  - [𝌆 2023](https://www.youtube.com/watch?v=x-Wndjv040Q&list=PLXoynULbYuEBSoANKVl4nKzBBae7DM3JK) — May 9-11, 2023
+- [App.js Conf](https://appjs.co/)
+  - [𝌆 2023](https://www.youtube.com/watch?v=1WnmFqImedY&list=PLSk21zn8fFZCfYEMpSqQOHMgyNKc8B7_s) — May 10-12, 2023
 - [Vueconf US](https://www.vuemastery.com/conferences)
   - [𝌆 2023](https://www.vuemastery.com/conferences/vueconf-us-2023) — May 25-26, 2023 May 25-26
 - [CSS Day Amsterdam](https://cssday.nl/2023)
@@ -76,7 +80,7 @@ Tip: to create the view above, use [Arc](https://arc.net/) browser with [split v
   - [𝌆 2023](https://viteconf.org/23/replay) — October 5-6, 2023
 - [NuxtNation](https://nuxtnation.com/) `Free Online Live Event`
   - [𝌆 2023](https://nuxtnation.com/) — October 18-19, 2023
-  - [𝌆 2022](https://www.youtube.com/watch?v=LbQBUvt3wmw&list=PLxddmVXxb3Hu4yg6jEUBcQ6xix6QM0ews) — November 16-17, 2022
+  - [𝌆 2022](https://www.youtube.com/playlist?list=PLxddmVXxb3Hu4yg6jEUBcQ6xix6QM0ews) — November 16-17, 2022
 - [performance.now()](https://perfnow.nl/)
   - [𝌆 2022](https://www.youtube.com/watch?v=_FOQoMvIxeQ&list=PLjnstNlepBvN4Cpv_Io-GpvJKdo1Bu-Vz) — October 27–28, 2022, Amsterdam
 - [Jamstack Conf](https://www.youtube.com/channel/UC8bRyfU7ycLXnEBfvdorpUg/videos)
