@@ -11,6 +11,7 @@
 - [TLDR Design](https://tldr.tech/design) — TLDR tools, trends, and inspiration in web design
 - [Frontend Focus (weekly) ex-HTML5-Weekly ⭐](https://frontendfoc.us/) — A once–weekly roundup (HTML, CSS, WebGL, Canvas, browser tech, and more)
 - [CSS Weekly](https://css-weekly.com/) —  CSS articles, tutorials, experiments, and tools curated by [Zoran Jambor](https://twitter.com/ZoranJambor)
+- [JavaScript Weekly ⭐](https://javascriptweekly.com/) — A newsletter of JavaScript articles, news and cool projects
 - [Unicorn Club (weekly)](https://dailydevlinks.com/) — For design-savvy front-end devs and code-loving UX/UI designers
 - [The Sidebar (daily) ⭐](https://sidebar.io/) — 5 design links in your inbox every weekday
 - [Web Design Weekly](https://web-design-weekly.com/) — Articles and tutorials on web design and development
