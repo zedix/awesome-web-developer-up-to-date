@@ -65,6 +65,8 @@ Tip: to create the view above, use [Arc](https://arc.net/) browser with [split v
   - [𝌆 2023](https://www.youtube.com/playlist?list=PLjnstNlepBvOG299LOrvMFJ8WreCDWWd4) — June 8-9, 2023
 - [Vue.js London](https://www.vuemastery.com/conferences)
   - [𝌆 2023](https://www.vuemastery.com/conferences/vuejs-live-2023) — June 12-15, 2023
+- [Tailwind Connect](https://connect.tailwindcss.com/)
+  - [𝌆 2023](https://www.youtube.com/watch?v=CLkxRnRQtDE) — June 20, 2023
 - [Figma Config 2023](https://config.figma.com/)
   - [𝌆 2023](https://www.youtube.com/watch?v=yI9QVwkk2Go&list=PLXDU_eVOJTx61IdqXh3jrvopJN8HGkS5F) — June 21-22, 2023
 
@@ -82,6 +84,9 @@ Tip: to create the view above, use [Arc](https://arc.net/) browser with [split v
 - [NuxtNation](https://nuxtnation.com/) `Free Online Live Event`
   - [𝌆 2023](https://nuxtnation.com/) — October 18-19, 2023
   - [𝌆 2022](https://www.youtube.com/playlist?list=PLxddmVXxb3Hu4yg6jEUBcQ6xix6QM0ews) — November 16-17, 2022
+- [FullStackEU](https://fullstackeurope.com/)
+  - [𝌆 2023](https://fullstackeurope.com/2023) — October 19-20, 2023
+  - [𝌆 2022](https://www.youtube.com/watch?v=u2DWD3p466c&list=PLeWf1pVncHmZIZFuhzETHDD-3KKmxiBdb) — November 16-17, 2022
 - [performance.now()](https://perfnow.nl/)
   - [𝌆 2022](https://www.youtube.com/watch?v=_FOQoMvIxeQ&list=PLjnstNlepBvN4Cpv_Io-GpvJKdo1Bu-Vz) — October 27–28, 2022, Amsterdam
 - [Jamstack Conf](https://www.youtube.com/channel/UC8bRyfU7ycLXnEBfvdorpUg/videos)
