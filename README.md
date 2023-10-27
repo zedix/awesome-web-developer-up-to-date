@@ -86,7 +86,7 @@ Tip: to create the view above, use [Arc](https://arc.net/) browser with [split v
   - [𝌆 2022](https://www.youtube.com/playlist?list=PLxddmVXxb3Hu4yg6jEUBcQ6xix6QM0ews) — November 16-17, 2022
 - [FullStackEU](https://fullstackeurope.com/)
   - [𝌆 2023](https://fullstackeurope.com/2023) — October 19-20, 2023
-  - [𝌆 2022](https://www.youtube.com/watch?v=u2DWD3p466c&list=PLeWf1pVncHmZIZFuhzETHDD-3KKmxiBdb) — November 16-17, 2022
+  - [𝌆 2022](https://www.youtube.com/watch?v=u2DWD3p466c&list=PLeWf1pVncHmZIZFuhzETHDD-3KKmxiBdb) — October 6-7, 2022
 - [performance.now()](https://perfnow.nl/)
   - [𝌆 2022](https://www.youtube.com/watch?v=_FOQoMvIxeQ&list=PLjnstNlepBvN4Cpv_Io-GpvJKdo1Bu-Vz) — October 27–28, 2022, Amsterdam
 - [Jamstack Conf](https://www.youtube.com/channel/UC8bRyfU7ycLXnEBfvdorpUg/videos)
@@ -96,6 +96,7 @@ Tip: to create the view above, use [Arc](https://arc.net/) browser with [split v
 
 - [Pixels of the Week](https://stephaniewalter.design/blog/category/useful-links/) — Curated weekly UX, Design & Tech resources
 - [Tympanus Collective](https://tympanus.net/codrops/collective/) — Latest news and resources from the web design & web development community
+- [Kizu Weekly Bookmarks](https://blog.kizu.dev/) — CSS
 
 ## Magazine Articles
 
@@ -111,6 +112,8 @@ Tip: to create the view above, use [Arc](https://arc.net/) browser with [split v
 
 ## Web Standards
 
+- [✨Interop 2023✨](https://wpt.fyi/interop-2023)
+- [CSS Explainers](https://css.oddbird.net/)
 - [HTML Living Standard](https://html.spec.whatwg.org/multipage/scripting.html#custom-elements)
 - [Web Components issues](https://github.com/WICG/webcomponents/issues)
 - [Spec Reactions](https://foolip.github.io/spec-reactions/)
