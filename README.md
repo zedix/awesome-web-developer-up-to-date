@@ -2,6 +2,9 @@
 
 > Awesome resources to keep yourself up to date as a (front) web developer.
 
+> [!NOTE]  
+> These resources are slightly oriented for front developers / product engineer, with interests in UX/UI, design & web standards.
+
 ## Newsletters
 
 - [Modern Web Weekly ⭐](https://modern-web-weekly.ghost.io/) by [Danny Moerkerke](https://twitter.com/dannymoerkerke)
