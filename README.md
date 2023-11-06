@@ -14,6 +14,7 @@
 - [JavaScript Weekly ⭐](https://javascriptweekly.com/) — A newsletter of JavaScript articles, news and cool projects
 - [Unicorn Club (weekly)](https://dailydevlinks.com/) — For design-savvy front-end devs and code-loving UX/UI designers
 - [The Sidebar (daily) ⭐](https://sidebar.io/) — 5 design links in your inbox every weekday
+- [The Rundown (AI)](https://www.therundown.ai/subscribe) — Latest developments in AI
 - [Web Design Weekly](https://web-design-weekly.com/) — Articles and tutorials on web design and development
 - [The Smashing Newsletter (weekly)](https://www.smashingmagazine.com/the-smashing-newsletter/) — Useful front-end & UX bits
 - [Bytes (bi-weekly)](https://bytes.dev/) — Your weekly dose of JS
@@ -90,7 +91,9 @@ Tip: to create the view above, use [Arc](https://arc.net/) browser with [split v
 - [performance.now()](https://perfnow.nl/)
   - [𝌆 2022](https://www.youtube.com/watch?v=_FOQoMvIxeQ&list=PLjnstNlepBvN4Cpv_Io-GpvJKdo1Bu-Vz) — October 27–28, 2022, Amsterdam
 - [Jamstack Conf](https://www.youtube.com/channel/UC8bRyfU7ycLXnEBfvdorpUg/videos)
-  - [𝌆 2022](https://www.youtube.com/watch?v=A1fIG7kghfs&list=PL58Wk5g77lF-s9uXrQgEo0Z9FQWBzoKXT)  — November 7-8, 2022
+  - [𝌆 2022](https://www.youtube.com/watch?v=A1fIG7kghfs&list=PL58Wk5g77lF-s9uXrQgEo0Z9FQWBzoKXT) — November 7-8, 2022
+- [Svelte Summit](https://www.sveltesummit.com/2023/fall)
+  - [𝌆 2023](https://www.youtube.com/sveltesociety) — November 11, 2023
 
 ## Weekly Curations
 
