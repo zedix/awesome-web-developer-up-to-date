@@ -2,7 +2,7 @@
 
 > Awesome resources to keep yourself up to date as a (front) web developer.
 
-> [!NOTE]  
+> [!NOTE]
 > These resources are slightly oriented for front developers / product engineer, with interests in UX/UI, design & web standards.
 
 ## Newsletters
@@ -42,6 +42,8 @@ Tip: to create the view above, use [Arc](https://arc.net/) browser with [split v
 
 - [Vue.js — List of Conferences](https://events.vuejs.org/conferences/)
 - [React.js — List of Conferences](https://react.dev/community/conferences)
+- [Dev.events](https://dev.events/)
+- [Confs.tech](https://confs.tech/)
 
 <a name="conferences-q1"></a>
 ### [![Jan⋰Feb⋰Mar](https://img.shields.io/badge/Jan⋰Feb⋰Mar-gray)](#conferences-q1)
@@ -129,6 +131,7 @@ Tip: to create the view above, use [Arc](https://arc.net/) browser with [split v
 - [Chrome Status](https://chromestatus.com/roadmap)
 - [Chrome Blog](https://developer.chrome.com/blog/)
 - [Chrome for Developers (videos)](https://www.youtube.com/@ChromeDevs/videos)
+- [WebKit Features](https://webkit.org/blog/category/news/)
 - [WebKit Standards Positions](https://webkit.org/standards-positions/)
 
 ## YouTube Channels
@@ -136,6 +139,7 @@ Tip: to create the view above, use [Arc](https://arc.net/) browser with [split v
 - [Google For Developers — HTTP 203](https://www.youtube.com/channel/UC_x5XG1OV2P6uZZ5FSM9Ttw/videos)
 - [Google Search Central](https://www.youtube.com/channel/UCWf2ZlNsCGDS89VBF_awNvA/videos)
 - [Steve (Builder.io)](https://www.youtube.com/channel/UCGmR6lhKMlCkvrvb39vPtdA/videos)
+- [Syntax](https://www.youtube.com/@syntaxfm/videos)
 
 ## Newsfeed dashboards
 
