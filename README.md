@@ -49,11 +49,12 @@ Tip: to create the view above, use [Arc](https://arc.net/) browser with [split v
 ### [![Jan⋰Feb⋰Mar](https://img.shields.io/badge/Jan⋰Feb⋰Mar-gray)](#conferences-q1)
 
 - [Laracon EU](https://laracon.eu/)
-  - [𝌆 2024](https://laracon.eu/) — February 5-6, 2024
+  - [𝌆 2024](https://www.youtube.com/playlist?list=PLMdXHJK-lGoBx3Nq2jHgrU7DGsJNi1nwi) — February 5-6, 2024
   - [𝌆 2022](https://www.youtube.com/watch?v=omKODW12Hhk&list=PLMdXHJK-lGoBcH4il_bq-aD_p34ZrBlas) — January 14, 2022
 - [JSWorld Conference](https://jsworldconference.com/)
   - [𝌆 2023](https://www.youtube.com/watch?v=QVZwvu9GSXE&list=PL02pdjMT4gWy_4JSx3J-PGT2MPnOMajvF) — February 8-10, 2023
 - [Vue.js Amsterdam](https://www.youtube.com/channel/UCxV7lO6dUhpB-IyzmGuVgqg/videos)
+  - [𝌆 2024](https://www.youtube.com/watch?v=4H9S7iIVQqI) — February 28-29, 2024
   - [𝌆 2022](https://www.youtube.com/watch?v=1ntuhMzAzU8&list=PLCxzy-hmQq9FwNkMS0JpzuMEh5aoJW_FZ) — February 10-11, 2023
 
 <a name="conferences-q2"></a>
@@ -113,6 +114,12 @@ Tip: to create the view above, use [Arc](https://arc.net/) browser with [split v
 - [Codrops](https://tympanus.net/codrops/) with some awesome playground demos from [@crnacura](https://twitter.com/crnacura)
 - [The New Stack](https://thenewstack.io/)
 
+## Blogs Articles
+
+- [Ryan Mulligan, Netlify Engineering Lead](https://ryanmulligan.dev/blog/)
+- [Josh Comeau](https://www.joshwcomeau.com/latest/)
+- [Ahmad Shadeed](https://ishadeed.com/)
+
 ## Web Platform
 
 - [Web.dev ⭐](https://web.dev/blog/) — Latest news, updates, and stories for developers
@@ -128,6 +135,8 @@ Tip: to create the view above, use [Arc](https://arc.net/) browser with [split v
 
 ## Browsers Engines
 
+- [Interop 2024](https://webkit.org/blog/14955/the-web-just-gets-better-with-interop/)
+- [Interop 2023](https://webkit.org/blog/13706/interop-2023/)
 - [Chrome Status](https://chromestatus.com/roadmap)
 - [Chrome Blog](https://developer.chrome.com/blog/)
 - [Chrome for Developers (videos)](https://www.youtube.com/@ChromeDevs/videos)
