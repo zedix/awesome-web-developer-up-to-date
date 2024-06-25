@@ -139,6 +139,7 @@ Tip: to create the view above, use [Arc](https://arc.net/) browser with [split v
 - [Interop 2023](https://webkit.org/blog/13706/interop-2023/)
 - [Chrome Status](https://chromestatus.com/roadmap)
 - [Chrome Blog](https://developer.chrome.com/blog/)
+- [Firefox Blog](https://blog.nightly.mozilla.org/)
 - [Chrome for Developers (videos)](https://www.youtube.com/@ChromeDevs/videos)
 - [WebKit Features](https://webkit.org/blog/category/news/)
 - [WebKit Standards Positions](https://webkit.org/standards-positions/)
@@ -175,6 +176,7 @@ Tip: to create the view above, use [Arc](https://arc.net/) browser with [split v
 - [The Web Platform Podcast](https://thewebplatformpodcast.com/) — Founded in 2014 by HTML W3C Invited Expert Erik Isaksen
 - [The Changelog Podcast](http://changelog.com/live) @JSPartyFM, Adam Wathan
 - [Syntax Podcast](https://syntax.fm/) — A Tasty Treats Podcast for Web Developers.
+- [DejaVue](https://dejavue.fm/) — The Vue podcast to remember
 
 ## Podcasts (FR)
 
