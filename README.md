@@ -10,6 +10,7 @@
 - [Modern Web Weekly ⭐](https://modern-web-weekly.ghost.io/) by [Danny Moerkerke](https://twitter.com/dannymoerkerke)
 - [TLDR Tech (daily)](https://tldr.tech/) — TLDR stories in Startups, Tech & Programming
 - [TLDR AI](https://tldr.tech/ai) — TLDR AI, Machine Learning & Data Science
+- [AI Weekly](https://aiweekly.co/) — Discover what AI experts are reading and sharing right now, with coverage of models, agents, funding, policy, and research
 - [TLDR WebDev](https://tldr.tech/webdev) — TLDR deep dives, tools, and trends in frontend, backend & full stack web development
 - [TLDR Design](https://tldr.tech/design) — TLDR tools, trends, and inspiration in web design
 - [Frontend Focus (weekly) ex-HTML5-Weekly ⭐](https://frontendfoc.us/) — A once–weekly roundup (HTML, CSS, WebGL, Canvas, browser tech, and more)
